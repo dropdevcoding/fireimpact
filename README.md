@@ -1,4 +1,4 @@
-impactjsevents
-==============
+ImpactJS Events
+===============
 
-An plugin for ImpactJS which adds event management features to classes or instances
+A plugin for ImpactJS which adds event management features to classes or instances
